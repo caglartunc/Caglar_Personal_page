@@ -31,6 +31,7 @@ url: "http://caglartunc.com" # the base hostname & protocol for your site, e.g. 
 header_pages:
   - index.markdown
   - Publications.markdown
+  - Teaching.markdown
   - Resume.markdown
   - Contact.markdown
 
