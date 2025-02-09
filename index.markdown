@@ -3,7 +3,7 @@ layout: page
 title:
 #permalink: /
 ---
-<div style="text-align:center"><img src="assets/images/photo.png" width="500" style="text-align:center"></div>
+<div style="text-align:center"><img src="assets/images/IMG_4409.png" width="500" style="text-align:center"></div>
 <br />
 
 Hi! I am a faculty member at [Sabanci University, Faculty of Engineering and Natural Sciences](https://fens.sabanciuniv.edu/en), in [Electronics Engineering Program](https://ee.sabanciuniv.edu/). My research interests are in communication technologies and services for 6G networks, including Network Digital Twins, O-RAN, AI-native architectures, NTNs and quantum communications. More broadly, I enjoy working on various problems related to wireless communication and networks, modeling and performance analysis of random systems.
