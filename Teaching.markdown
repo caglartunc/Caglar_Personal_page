@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Contact
-permalink: /contact/
+title: Teaching
+permalink: /teaching/
 ---
 
-### Teaching
 - EE311 - Introduction to Signal Processing and Information Systems
 - EE312 - Discrete Time Signals & Systems
